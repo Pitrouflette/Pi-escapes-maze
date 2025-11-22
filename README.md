@@ -13,19 +13,10 @@ Le programme associe chaque décimale de Pi (après la virgule) à une direction
 | Décimales | Direction | Symbole |
 |-----------|-----------|---------|
 | 0-1       | Haut      | ↑       |
-| 2-4       | Droite    | →       |
-| 5-6       | Bas       | ↓       |
-| 7-9       | Gauche    | ←       |
+| 2-3       | Droite    | →       |
+| 4-5       | Bas       | ↓       |
+| 6-7       | Gauche    | ←       |
 
-Par exemple, si les premières décimales sont `1415926...`, Pi tentera de :
-1. Monter (1)
-2. Aller à droite (4)
-3. Monter (1)
-4. Bas (5)
-5. Gauche (9)
-6. Droite (2)
-7. Bas (6)
-...et ainsi de suite jusqu'à trouver la sortie !
 
 ### Règles du jeu
 
