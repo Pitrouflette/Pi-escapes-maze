@@ -177,9 +177,6 @@ Idées pour étendre le projet :
 - [ ] Comparer Pi avec d'autres constantes (e, φ, √2)
 - [ ] Mode "course" avec plusieurs constantes mathématiques
 - [ ] Statistiques détaillées (heatmap des zones visitées)
-- [ ] Export des résultats en CSV
-- [ ] Labyrinthes 3D
-- [ ] Mode "apprentissage" où Pi apprend le chemin optimal
 
 ## 📚 Références
 
